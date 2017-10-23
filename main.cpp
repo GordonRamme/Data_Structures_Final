@@ -10,14 +10,45 @@
 #include <string>
 #include <list>
 
-using namespace std;
+#include "customheaders.h"
 
+using namespace std;
+using namespace custom;
+
+List < double > make_random_list ();
+
+List < double > Sort_alg_1 ( List < double > in );
+
+List < double > Sort_alg_2 ( List < double > in );
 
 int main(int argc, char** argv) 
 
 {
     
-    
     return 0;
+    
 }
 
+List < double > make_random_list ()
+
+{
+    
+    
+    
+}
+
+List < double > Sort_alg_1 ( List < double > in )
+
+{
+    
+    
+    
+}
+
+List < double > Sort_alg_2 ( List < double > in )
+
+{
+    
+    
+    
+}

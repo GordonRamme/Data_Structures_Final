@@ -12,5 +12,17 @@
 #ifndef LIST_H
 #define LIST_H
 
+template < typename Container > 
+
+class List
+
+{
+    
+public:
+        
+private:
+                
+};
+
 #endif /* LIST_H */
 

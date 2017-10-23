@@ -1,7 +1,9 @@
-NOTES:  
+NOTES:
+
+don't include List.h. it's included through customheaders.h.  
 
 TODO:  
 
-add linked list headers
+create List class template
 
-add API to get data
+choose sorting algorithms
