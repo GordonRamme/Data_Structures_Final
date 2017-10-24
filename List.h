@@ -24,5 +24,7 @@ private:
                 
 };
 
+//class template functions go here
+
 #endif /* LIST_H */
 
