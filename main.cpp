@@ -44,7 +44,7 @@ List < double > make_random_list ()
         
     {
     
-    out.Push ( rand () );  //adds a random number to the linked list
+    out.Push_front ( rand () );  //adds a random number to the linked list
     
     }
     
